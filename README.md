@@ -21,4 +21,5 @@ The main steps of this python project are:
 - index.py receives the html code returned/sent by the function create_movies_page and saves it to the file 'index.html'.
 - index.py opens the newly created page 'index.html' in the default browser.
 
-# Enjoy!
+# Important: 
+All information as well as the pictures used in this project are collected from the website: www.movie-list.com
