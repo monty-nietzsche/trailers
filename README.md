@@ -14,7 +14,6 @@ Running the code to generate the movie trailers webpage is easy:
 1. Clone the repository on your PC or Mac
 2. Run 'index.py' using python IDLE or any other software using a python environment. 
 3. The generated webpage will appear in your default browser
-4. Please comment if any errors occur.
 
 # Algorithm details
 index.py is the mastermind and is responsible for creating index.html and running it in browser. 
